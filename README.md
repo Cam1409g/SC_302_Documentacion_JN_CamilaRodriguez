@@ -1,1 +1,1 @@
-# SC_302_Documentacion_JN_CamilaRodriguez
+Es mi primer practica con GitHub
